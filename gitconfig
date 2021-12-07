@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = contact@srs972.com
+	name = david lagier
